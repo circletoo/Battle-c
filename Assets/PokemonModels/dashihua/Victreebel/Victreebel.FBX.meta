@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: a335a5cb184a3c74e94228318989c22e
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 001 pm0071_00
+    100002: 002 Origin
+    100004: 003 Waist
+    100006: 004 Hips
+    100008: 005 EndHips
+    100010: 006 LThigh
+    100012: 007 LLeg
+    100014: 008 LFoot
+    100016: 009 LToe
+    100018: 010 EndLToe
+    100020: 011 RThigh
+    100022: 012 RLeg
+    100024: 013 RFoot
+    100026: 014 RToe
+    100028: 015 EndRToe
+    100030: 016 Spine1
+    100032: 017 Spine2
+    100034: 018 Head
+    100036: 019 EndHead
+    100038: 020 FeelerA
+    100040: 021 EndFeelerA
+    100042: 022 Feeler1
+    100044: 023 Feeler2
+    100046: 024 EndFeeler2
+    100048: 025 LFeeler
+    100050: 026 EndLFeeler
+    100052: 027 RFeeler
+    100054: 028 EndRFeeler
+    100056: 029 Tail01
+    100058: 030 Tail02
+    100060: 031 Tail03
+    100062: 032 Tail04
+    100064: 033 Tail05
+    100066: 034 Tail06
+    100068: 035 Tail07
+    100070: 036 Tail08
+    100072: 037 Tail09
+    100074: 038 Tail10
+    100076: 039 Tail11
+    100078: 040 Tail12
+    100080: 041 EndTail12
+    100082: 042 RootJaw
+    100084: 043 EndRootJaw
+    100086: 044 JawD
+    100088: 045 EndJawD
+    100090: 046 JawE
+    100092: 047 EndJawE
+    100094: 048 LJawA
+    100096: 049 EndLJawA
+    100098: 050 LJawB
+    100100: 051 EndLJawB
+    100102: 052 LJawC
+    100104: 053 EndLJawC
+    100106: 054 LTeeth
+    100108: 055 EndLTeeth
+    100110: 056 RJawA
+    100112: 057 EndRJawA
+    100114: 058 RJawB
+    100116: 059 EndRJawB
+    100118: 060 RJawC
+    100120: 061 EndRJawC
+    100122: 062 RTeeth
+    100124: 063 EndRTeeth
+    100126: 064 pm0071_00_Skin
+    100128: Victreebel
+    100130: //RootNode
+    400000: 001 pm0071_00
+    400002: 002 Origin
+    400004: 003 Waist
+    400006: 004 Hips
+    400008: 005 EndHips
+    400010: 006 LThigh
+    400012: 007 LLeg
+    400014: 008 LFoot
+    400016: 009 LToe
+    400018: 010 EndLToe
+    400020: 011 RThigh
+    400022: 012 RLeg
+    400024: 013 RFoot
+    400026: 014 RToe
+    400028: 015 EndRToe
+    400030: 016 Spine1
+    400032: 017 Spine2
+    400034: 018 Head
+    400036: 019 EndHead
+    400038: 020 FeelerA
+    400040: 021 EndFeelerA
+    400042: 022 Feeler1
+    400044: 023 Feeler2
+    400046: 024 EndFeeler2
+    400048: 025 LFeeler
+    400050: 026 EndLFeeler
+    400052: 027 RFeeler
+    400054: 028 EndRFeeler
+    400056: 029 Tail01
+    400058: 030 Tail02
+    400060: 031 Tail03
+    400062: 032 Tail04
+    400064: 033 Tail05
+    400066: 034 Tail06
+    400068: 035 Tail07
+    400070: 036 Tail08
+    400072: 037 Tail09
+    400074: 038 Tail10
+    400076: 039 Tail11
+    400078: 040 Tail12
+    400080: 041 EndTail12
+    400082: 042 RootJaw
+    400084: 043 EndRootJaw
+    400086: 044 JawD
+    400088: 045 EndJawD
+    400090: 046 JawE
+    400092: 047 EndJawE
+    400094: 048 LJawA
+    400096: 049 EndLJawA
+    400098: 050 LJawB
+    400100: 051 EndLJawB
+    400102: 052 LJawC
+    400104: 053 EndLJawC
+    400106: 054 LTeeth
+    400108: 055 EndLTeeth
+    400110: 056 RJawA
+    400112: 057 EndRJawA
+    400114: 058 RJawB
+    400116: 059 EndRJawB
+    400118: 060 RJawC
+    400120: 061 EndRJawC
+    400122: 062 RTeeth
+    400124: 063 EndRTeeth
+    400126: 064 pm0071_00_Skin
+    400128: Victreebel
+    400130: //RootNode
+    4300000: Victreebel
+    9500000: //RootNode
+    13700000: Victreebel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 

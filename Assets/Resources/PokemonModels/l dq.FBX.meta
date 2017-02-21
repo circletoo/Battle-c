@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 0cd0b9a04add2064e826ac82e0bad2d4
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: EndEye1
+    100002: EndEye2
+    100004: EndEye3
+    100006: EndEyeRoot
+    100008: EndWaist
+    100010: Eye1
+    100012: Eye2
+    100014: Eye3
+    100016: EyeRoot
+    100018: //RootNode
+    100020: Origin
+    100022: pm0100_00
+    100024: pm0100_00_Skin
+    100026: vsn_mesh_0_pm0100_00_Skin
+    100028: vsn_mesh_1_pm0100_00_Skin
+    100030: Waist
+    400000: EndEye1
+    400002: EndEye2
+    400004: EndEye3
+    400006: EndEyeRoot
+    400008: EndWaist
+    400010: Eye1
+    400012: Eye2
+    400014: Eye3
+    400016: EyeRoot
+    400018: //RootNode
+    400020: Origin
+    400022: pm0100_00
+    400024: pm0100_00_Skin
+    400026: vsn_mesh_0_pm0100_00_Skin
+    400028: vsn_mesh_1_pm0100_00_Skin
+    400030: Waist
+    4300000: vsn_mesh_0_pm0100_00_Skin
+    4300002: vsn_mesh_1_pm0100_00_Skin
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: vsn_mesh_0_pm0100_00_Skin
+    13700002: vsn_mesh_1_pm0100_00_Skin
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pm0100_00
+        weight: 1
+      - path: pm0100_00/Origin
+        weight: 1
+      - path: pm0100_00/Origin/Waist
+        weight: 1
+      - path: pm0100_00/Origin/Waist/EndWaist
+        weight: 1
+      - path: pm0100_00/Origin/Waist/EyeRoot
+        weight: 1
+      - path: pm0100_00/Origin/Waist/EyeRoot/EndEyeRoot
+        weight: 1
+      - path: pm0100_00/Origin/Waist/EyeRoot/Eye1
+        weight: 1
+      - path: pm0100_00/Origin/Waist/EyeRoot/Eye1/EndEye1
+        weight: 1
+      - path: pm0100_00/Origin/Waist/EyeRoot/Eye2
+        weight: 1
+      - path: pm0100_00/Origin/Waist/EyeRoot/Eye2/EndEye2
+        weight: 1
+      - path: pm0100_00/Origin/Waist/EyeRoot/Eye3
+        weight: 1
+      - path: pm0100_00/Origin/Waist/EyeRoot/Eye3/EndEye3
+        weight: 1
+      - path: pm0100_00/pm0100_00_Skin
+        weight: 1
+      - path: vsn_mesh_0_pm0100_00_Skin
+        weight: 1
+      - path: vsn_mesh_1_pm0100_00_Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
